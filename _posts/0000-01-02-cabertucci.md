@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"I'm not afraid of being weird" - Lit
 Use the left arrow to go back!
